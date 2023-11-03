@@ -1,0 +1,14 @@
+table {
+     border-style:outset;
+}
+table tr,td{
+    border-style:solid;
+}
+tr,td :nth-child(odd){
+    background-color: lightgreen;
+
+    background-color: rgb(65, 223, 65);
+}
+body{ 
+    background-color: rgb(219, 166, 87);
+}
